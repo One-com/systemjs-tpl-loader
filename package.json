@@ -1,0 +1,12 @@
+{
+  "name": "systemjs-tpl-loader",
+  "version": "0.0.0",
+  "description": "Knockout.js template loader for System.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/One-com/systemjs-tpl-loader"
+  },
+  "author": "Gustav Nikolaj Olsen <gno@one.com>",
+  "license": "ISC"
+}
